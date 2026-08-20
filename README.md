@@ -21,4 +21,4 @@ Following a structured 90-day roadmap covering:
 ## 📫 Connect with me
 - LinkedIn: *(https://www.linkedin.com/in/jeevith-gundllapalli-128191400/)*
 ---
-*Currently on Day 1 of my cybersecurity journey — updates coming as I build.*
+*Actively building. Follow along as I go from networking basics to real-world SOC and network security projects.*
